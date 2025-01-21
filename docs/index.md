@@ -1,4 +1,6 @@
-# Welcome to MkDocs
+# Welcome to Koji's Personal Documentation Page!
+
+このウェブページは、GitHubでウェブサイト構築に初めて挑戦するために、テスト的に構築したものです。順次更新していきますのでお楽しみに！
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
